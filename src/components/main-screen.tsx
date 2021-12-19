@@ -28,7 +28,7 @@ const MainScreen = () => {
           <Avatar
             _groupHover={{ width: "5rem", height: '5rem' }}
             size={"xl"}
-            src={"https://avatars.githubusercontent.com/u/55136496?s=400&u=20d26b00fde078e5a357b05e08bc699dd6b26b32&v=4"}
+            src={"img/logo.jpg"}
           />
         </Box>
       </motion.div>
@@ -38,7 +38,7 @@ const MainScreen = () => {
         textTransform="capitalize"
         noOfLines={2}
       >
-        David Mwangi
+        CODESMITHSAFRICA
       </Heading>
       <Text
         color={"gray.500"}
@@ -47,7 +47,7 @@ const MainScreen = () => {
         _groupHover={{ display: "none" }}
         display="block"
       >
-        Full-Stack Developer
+        SOFTWARE TECH COMPANY
       </Text>
       <Fade in>
       <Text
@@ -57,7 +57,7 @@ const MainScreen = () => {
         _groupHover={{ display: "block" }}
         display="none"
       >
-        I'm a Full Stack Developer and an open source lover from {" "} 🇰🇪
+        We offer software solution with love from {" "} 🇰🇪
       </Text>
       </Fade>
       <Divider />
