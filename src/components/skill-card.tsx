@@ -16,9 +16,10 @@ export interface SkillCardProps {
   name: string;
   image: string;
   link: string;
+
 }
 
-const SkillCard: React.SFC<SkillCardProps> = ({ name, image, link }) => {
+const SkillCard: React.FC<SkillCardProps> = ({ name, image, link }) => {
   const { data, loading, error } = usePalette(image);
 
   return (

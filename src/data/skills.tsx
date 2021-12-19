@@ -65,16 +65,25 @@
 
 
 export const skills = [
-    {
-        name: "React",
-        description: "front-end stuff"
-    },
-    {
-        name: "Github",
-        description: "front-end stuff"
-    },
-    {
-        name: "Git",
-        description: "Version control stuff"
-    }
-]
+  {
+    name: "React",
+    description: "front-end stuff",
+    image: "",
+    link: "",
+    platform: "",
+  },
+  {
+    name: "Github",
+    description: "front-end stuff",
+    image: "",
+    link: "",
+    platform:"" ,
+  },
+  {
+    name: "Git",
+    description: "Version control stuff",
+    image: "",
+    link: "",
+    platform: "",
+  },
+];
