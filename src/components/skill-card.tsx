@@ -73,7 +73,7 @@ const SkillCard: React.SFC<SkillCardProps> = ({ name, image, link }) => {
               maxW="lg"
               h="100%"
             >
-              <VStack spacing={0} align="center" flexGrow="1">
+              <VStack spacing={0} align="center" grow={1}>
                 <Text fontWeight="bold" fontSize="md" noOfLines={2}>
                   {name}
                 </Text>
