@@ -57,7 +57,7 @@ const MainScreen = () => {
         _groupHover={{ display: "block" }}
         display="none"
       >
-        We offer software solution with love from {" "} 🇰🇪
+        We use technology to impact lives {" "} 🇰🇪
       </Text>
       </Fade>
       <Divider />
