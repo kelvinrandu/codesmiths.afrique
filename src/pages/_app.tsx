@@ -1,6 +1,6 @@
 import { ChakraProvider } from "@chakra-ui/react"
 // import '../global-styles/main.css'
-import '../style/style.css'
+// import '../style/style.css'
 
 
 

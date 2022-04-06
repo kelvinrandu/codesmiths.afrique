@@ -1,15 +1,13 @@
 import React from 'react'
-import Navbar from '../components/Navbar'
-import Card from '../components/Card'
+// import Navbar from '../components/Navbar'
+import Logo from '../components/Logo/Logo'
 
 
 export default function index() {
   return (
     <div>
-      <main>
-      <Navbar />
-      <Card />
-      </main>
+      {/* <Navbar /> */}
+      <Logo />
     </div>
   )
 }
