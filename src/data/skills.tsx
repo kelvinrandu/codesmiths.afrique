@@ -87,7 +87,7 @@ export const skills = [
     platform: "",
   },
   {
-    name: "as",
+    name: "aws",
     description: "Server stuff",
     image: "",
     link: "",
