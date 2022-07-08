@@ -7,9 +7,9 @@ import {
   FaTwitter
 } from "react-icons/fa";
 const siteConfig = {
-  copyright: `Copyright © ${new Date().getFullYear()} David Mwangi. All Rights Reserved.`,
+  copyright: `Copyright © ${new Date().getFullYear()} Kelvin Randu. All Rights Reserved.`,
   author: {
-    name: "David  Mwangi",
+    name: "kelvin Randu",
     accounts: [
       {
         url: "https://github.com/kelvinrandu",
