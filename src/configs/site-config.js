@@ -12,25 +12,25 @@ const siteConfig = {
     name: "David  Mwangi",
     accounts: [
       {
-        url: "https://github.com/devMuangi",
+        url: "https://github.com/kelvinrandu",
         label: "Github Account",
         type: "gray",
-        icon: <FaGithub />
+        icon: <FaGithub />,
       },
       {
-        url: "https://www.linkedin.com/in/devmuangi/",
+        url: " https://linkedin.com/in/kelvin-randu/",
         label: "LinkedIn Account",
         type: "linkedin",
-        icon: <FaLinkedin />
+        icon: <FaLinkedin />,
       },
       {
-        url: "https://twitter.com/devMuangi",
+        url: "https://twitter.com/kelvin_randu",
         label: "Twitter Account",
         type: "twitter",
-        icon: <FaTwitter />
-      }
-    ]
-  }
+        icon: <FaTwitter />,
+      },
+    ],
+  },
 };
 
 export default siteConfig;
